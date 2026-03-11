@@ -1,0 +1,8 @@
+fastapi
+groq
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+pypdf
